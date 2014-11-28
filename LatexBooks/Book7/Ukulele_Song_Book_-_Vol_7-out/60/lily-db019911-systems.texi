@@ -1,0 +1,2 @@
+@image{60/lily-db019911-1}
+@c eof

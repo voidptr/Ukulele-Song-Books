@@ -1,0 +1,7 @@
+@image{79/lily-8272019c-1}
+@image{79/lily-8272019c-2}
+@image{79/lily-8272019c-3}
+@image{79/lily-8272019c-4}
+@image{79/lily-8272019c-5}
+@image{79/lily-8272019c-6}
+@c eof

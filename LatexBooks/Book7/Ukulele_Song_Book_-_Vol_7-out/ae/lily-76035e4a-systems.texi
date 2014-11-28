@@ -1,0 +1,7 @@
+@image{ae/lily-76035e4a-1}
+@image{ae/lily-76035e4a-2}
+@image{ae/lily-76035e4a-3}
+@image{ae/lily-76035e4a-4}
+@image{ae/lily-76035e4a-5}
+@image{ae/lily-76035e4a-6}
+@c eof

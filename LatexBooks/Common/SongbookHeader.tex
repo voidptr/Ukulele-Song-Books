@@ -1,0 +1,53 @@
+%%%%%%%%%% SONGBOOK HEADER %%%%%%%%%%%%
+%\documentclass[twoside]{article}
+\documentclass{article}
+\usepackage[paperheight=5.5in,paperwidth=4.25in,margin=0.2in]{geometry}
+\usepackage{savesym}
+\usepackage{graphicx}
+\usepackage{tocloft}
+
+%%%%%%%%%%%%%%%%% DEFINITIONS FOR SONGS %%%%%%%%%%%%%%%
+\usepackage[chorded]{songs}
+\definecolor{redish}{RGB}{255,0,0}
+\definecolor{bluish}{RGB}{0,0,200}
+
+\noversenumbers
+%\nosongnumbers
+\MultiwordChords
+\songpos{3}
+%\setlength\baselineadj{-\baselineskip}
+\baselineadj=-3pt plus 3pt minus 0pt
+\afterpreludeskip=0pt plus 5pt minus 0pt
+\beforepostludeskip=0pt plus 0pt minus 0pt
+\versesep=10pt plus 30pt minus 0pt
+
+\renewcommand*\rmdefault{bch}
+\renewcommand*\sfdefault{lmss}
+
+\renewcommand{\extendpostlude}{
+%   \ This is poop.
+%  \songcopyright\ \songlicense\unskip
+%  \ Used with permission.
+}
+
+\newcommand\invisiblesection[1]{%
+  \refstepcounter{section}%
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+  \sectionmark{#1}}
+\renewcommand{\songsection}{\invisiblesection}
+
+\renewcommand{\printchord}[1]{\raisebox{0.15ex}{\sffamily\scriptsize\color{bluish}\bf#1}} % set the chords to be blue
+\renewcommand{\trchordformat}[2]{\vbox{\hbox{\sffamily\tiny\color{red}\hspace{0.75em}\raisebox{-2ex}{#2}}\hbox{#1}}} % print transposed chords above original chords
+\renewcommand{\lyricfont}{\sffamily\footnotesize}
+
+\renewcommand{\cftsecfont}{\sffamily\small}
+\renewcommand{\cftsecpagefont}{\sffamily\small}
+
+\newindex{titleidx}{titleidx}
+\setlength\cftbeforesecskip{3pt plus 10pt minus 0pt}
+
+
+%%%%%%%%%%%%%%% END SONGS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+

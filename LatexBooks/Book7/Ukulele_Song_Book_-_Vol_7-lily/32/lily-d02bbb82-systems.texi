@@ -1,0 +1,3 @@
+@image{32/lily-d02bbb82-1}
+@image{32/lily-d02bbb82-2}
+@c eof

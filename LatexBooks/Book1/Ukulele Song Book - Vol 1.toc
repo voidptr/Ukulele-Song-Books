@@ -1,0 +1,23 @@
+\nobreakspace {}\hfill \textbf {Page}\par 
+\contentsline {section}{\numberline {1}American Pie - Don McLean}{1}
+\contentsline {section}{\numberline {2}Hurt - Johnny Cash}{5}
+\contentsline {section}{\numberline {3}Cecilia - Simon and Garfunkel}{6}
+\contentsline {section}{\numberline {4}Comfortably Numb - Pink Floyd}{7}
+\contentsline {section}{\numberline {5}Creep - Radiohead}{9}
+\contentsline {section}{\numberline {6}Edelweiss - The Sound of Music}{11}
+\contentsline {section}{\numberline {7}Lonestar - Norah Jones}{12}
+\contentsline {section}{\numberline {8}Desperado - Johnny Cash}{13}
+\contentsline {section}{\numberline {9}Homeward Bound - Simon and Garfunkel}{15}
+\contentsline {section}{\numberline {10}Margaritaville - Jimmy Buffet}{17}
+\contentsline {section}{\numberline {11}Last Dance With Maryjane - Tom Petty and the Heartbreakers}{19}
+\contentsline {section}{\numberline {12}Nothing Else Matters - Metallica}{21}
+\contentsline {section}{\numberline {13}Sound of Silence - Simon and Garfunkel}{23}
+\contentsline {section}{\numberline {14}Staring At The Sun - U2}{25}
+\contentsline {section}{\numberline {15}The Boxer - Simon and Garfunkel}{27}
+\contentsline {section}{\numberline {16}Boys of Summer - Don Henley}{29}
+\contentsline {section}{\numberline {17}Hounds of Winter - Sting}{31}
+\contentsline {section}{\numberline {18}USS Make Shit Up - Voltaire}{33}
+\contentsline {section}{\numberline {19}For Emily Whenever I May Find Her - Simon and Garfunkel}{36}
+\contentsline {section}{\numberline {20}Fireflies - Owl City}{37}
+\contentsline {section}{\numberline {21}When I Come Around - Green Day}{39}
+\contentsline {section}{\numberline {22}Chord Reference}{41}

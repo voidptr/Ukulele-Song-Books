@@ -1,0 +1,18 @@
+\nobreakspace {}\hfill \textbf {Page}\par 
+\contentsline {section}{\numberline {1}I Will Be The One - The Quiet American}{1}
+\contentsline {section}{\numberline {2}Baby, It's Cold Outside}{3}
+\contentsline {section}{\numberline {3}Paper Bag - Fiona Apple}{4}
+\contentsline {section}{\numberline {4}Moon River - Andy Williams}{6}
+\contentsline {section}{\numberline {5}Friday I'm In Love - The Cure}{7}
+\contentsline {section}{\numberline {6}You Belong To Me - King/Price/Stewart}{8}
+\contentsline {section}{\numberline {7}Trapeze Swinger - Iron and Wine}{9}
+\contentsline {section}{\numberline {8}Everybody Wants To Rule The World - Tears For Fears}{10}
+\contentsline {section}{\numberline {9}Don't Stop Believing - Journey}{11}
+\contentsline {section}{\numberline {10}On The Road Again - Willie Nelson}{12}
+\contentsline {section}{\numberline {11}King Of Spain - Moxy Früvous}{13}
+\contentsline {section}{\numberline {12}Splatter Splatter - Moxy Früvous}{14}
+\contentsline {section}{\numberline {13}Come Fly With Me - Frank Sinatra}{15}
+\contentsline {section}{\numberline {14}Kokomo - The Beach Boys}{16}
+\contentsline {section}{\numberline {15}Big Rock Candy Mountain - Burl Ives}{17}
+\contentsline {section}{\numberline {16}Love Song - Sara Bareilles}{18}
+\contentsline {section}{\numberline {17}Chord Reference}{20}

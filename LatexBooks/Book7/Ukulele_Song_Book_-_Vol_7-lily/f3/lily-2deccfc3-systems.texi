@@ -1,0 +1,2 @@
+@image{f3/lily-2deccfc3-1}
+@c eof

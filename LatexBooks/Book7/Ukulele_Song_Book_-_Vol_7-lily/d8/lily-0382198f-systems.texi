@@ -1,0 +1,7 @@
+@image{d8/lily-0382198f-1}
+@image{d8/lily-0382198f-2}
+@image{d8/lily-0382198f-3}
+@image{d8/lily-0382198f-4}
+@image{d8/lily-0382198f-5}
+@image{d8/lily-0382198f-6}
+@c eof

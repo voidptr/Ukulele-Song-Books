@@ -1,0 +1,10 @@
+\nobreakspace {}\hfill \textbf {Page}\par 
+\contentsline {section}{\numberline {1}Heart Shaped Box - Nirvana}{1}
+\contentsline {section}{\numberline {2}Girls Just Wanna Have Fun - Cyndi Lauper}{3}
+\contentsline {section}{\numberline {3}Tom Sawyer - Rush}{5}
+\contentsline {section}{\numberline {4}Bad Romance - Lady GaGa}{7}
+\contentsline {section}{\numberline {5}Far From Any Road - The Handsome Family}{10}
+\contentsline {section}{\numberline {6}Ring of Fire - Johnny Cash}{11}
+\contentsline {section}{\numberline {7}La Vie en Rose - Edith Piaf}{12}
+\contentsline {section}{\numberline {8}Derby Blues - Bert Hert}{14}
+\contentsline {section}{\numberline {9}Chord Reference}{17}
